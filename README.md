@@ -1,4 +1,4 @@
-Simple roulette. Lets you choose between colours and numbers and how much you want to bet on them.
+Simple calculator. Uses only two numbers.
 
 Features:
 While loops
