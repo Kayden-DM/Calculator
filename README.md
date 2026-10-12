@@ -1,3 +1,5 @@
+This README is made with AI
+
 🧮 Python Calculator
 A simple command-line calculator built with Python. It takes two numbers and an operator from the user and prints the result. It's a great beginner project for learning about loops, conditionals, type conversion, and basic arithmetic in Python.
 
