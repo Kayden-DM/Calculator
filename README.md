@@ -17,7 +17,6 @@ Quit Command — Type quit to exit the loop cleanly.
 Repeat Loop — Keeps accepting calculations until the user quits.
 
 ## Technologies Used
-text
 | Technology | Purpose |
 |---|---|
 | Python | Application logic |
